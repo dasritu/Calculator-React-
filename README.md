@@ -14,7 +14,7 @@ This is a simple calculator application built with React.
 - Styled to look like a real calculator
 
 ## Screenshot
-![Screenshot](public/image/calculatorss.png)
+![Screenshot](public/image/Calculatorss.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
