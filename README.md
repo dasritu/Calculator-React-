@@ -2,6 +2,19 @@
 # Calculator-React-
 =======
 # Getting Started with Create React App
+# Calculator Project
+
+# Calculator Project
+
+This is a simple calculator application built with React.
+
+## Features
+- Basic arithmetic operations
+- Responsive design
+- Styled to look like a real calculator
+
+## Screenshot
+![Screenshot](public/image/calculatorss.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
